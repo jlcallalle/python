@@ -1,4 +1,6 @@
-### OPERADORES MATEMATICOS
+# -*- coding: utf-8 -*-
+
+### OPERADORES MATEMÁTICOS
 
 suma = 2+2
 print(suma)
